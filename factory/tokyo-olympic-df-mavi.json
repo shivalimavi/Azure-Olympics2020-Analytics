@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-df-mavi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7bfc7d46-9cd0-4478-86a0-2a9e235f120f",
+		"tenantId": "8d281d1d-9c4d-4bf7-b16e-032d15de9f6c"
+	}
+}
